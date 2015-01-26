@@ -7,7 +7,11 @@ Required: Users can easily calculate a tip by entering their tab amount and sele
 
 Optional: app icon, bg image, fonts, colors, textfield placeholder, additional feature experimentation (Time: 3 hr)
 
-App Demo: 
+App Demo V2: 
+
+![Video Walkthrough](tipjarAnimations.gif)
+
+App Demo V1
 
 ![Video Walkthrough](tipjar-gif.gif)
 
